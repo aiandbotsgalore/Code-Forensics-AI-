@@ -1,0 +1,5 @@
+{
+  "name": "Code Forensics AI",
+  "description": "An application that accepts a zip file containing project code, analyzes it for errors using the Gemini API, and provides a comprehensive forensic review of the code structure, functionality, and potential optimizations.",
+  "requestFramePermissions": []
+}
